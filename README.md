@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nirab14
-- 👀 I’m interested in Computer Science, Data Science. I’m excited to explore coding, algorithms, and software development.
+- 👀 I’m interested in Computer Science, Data Science and learning the tech related to fintech
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nirabkotian123@gmail.com
